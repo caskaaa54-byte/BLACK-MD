@@ -1,4 +1,4 @@
-        💚𝗬𝗘𝗦𝗦𝗘𝗥 𝗠𝗗💚
+        💚BLACK-MD💚
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR YOUR +SUPPORT-DONT; FORGET+TO+FORK+MYrepo;CREATED+BY+YESSER TECH;RELEASED+25.9.2024" alt="Typing SVG" /></a>
 
@@ -89,7 +89,7 @@ BOT_MENU_LINKS=https://files.catbox.moe/9e7vmv.jpg
 PUBLIC_MODE=yes
 HEROKU=no
 OWNER_NAME=yessertech 
-NUMERO_OWNER=255621995482
+NUMERO_OWNER=252636642033
 WARN_COUNT=3
 STARTING_BOT_MESSAGE=yes
 PRESENCE=1
@@ -98,7 +98,7 @@ SESSION_ID=zokk
 ANTI_VIEW_ONCE="yes
 ANTI_COMMAND_SPAM=yes
 ANTI_DELETE_MESSAGE=yes
-AUTO_REACT_MESSAGE=no
+AUTO_REACT_MESSAGE=yes
 ```
 
 
